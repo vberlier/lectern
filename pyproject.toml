@@ -30,7 +30,7 @@ markdown-it-py = "^1.1.0"
 click = "^7.1.2"
 
 [tool.poetry.dev-dependencies]
-black = {version = "^21.6b0", allow-prereleases = true}
+black = {version = "^21.7b0", allow-prereleases = true}
 rope = "^0.19.0"
 pytest = "^6.2.4"
 isort = {version = "^5.9.1", allow-prereleases = true}
